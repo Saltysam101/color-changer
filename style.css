@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+#color-change{
+    height: 75px;
+    width: 150px;
+    background-color: teal;
+}
